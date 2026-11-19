@@ -1,43 +1,48 @@
 ## Hi 👋, I'm Adalberto Rodríguez Núñez
 
-Computer Science Engineer. Currently developing Android applications using Kotlin at Altatec de Occidente. 
+**Android Software Engineer** · Guadalajara, Mexico 🇲🇽
 
-## 🧮 Github Stats
+Computer Engineer with 4+ years building Android apps with **Kotlin**, from warehouse logistics to real estate. I care about maintainable code, solid test coverage and close collaboration with product, design and cross-platform teams.
 
-<a href="https://github.com/AdalRodNun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdalRodNun&theme=tokyonight" />
-</a>
+- 💼 **Android Engineer III at [Wizeline](https://www.wizeline.com/)**: modernizing Realtor.com's Android search platform (10M+ downloads) with Jetpack Compose and Clean Architecture.
+- 🔭 Building [Pokédex](https://github.com/AdalRodNun/Pokedex), a portfolio app with Compose, GraphQL and Clean Architecture.
+- 🤖 Exploring AI agents and LLM integration (LangGraph, Claude API) and AI-assisted development workflows.
+- 🌎 Spanish (native) · English (professional).
+- 📫 [LinkedIn](https://www.linkedin.com/in/adalberto-rodriguez-nunez)
+
+## 📱 Featured projects
+
+### [Pokédex](https://github.com/AdalRodNun/Pokedex)
+Android Pokédex consuming the PokeAPI GraphQL API: paginated list, type icons, detail screen, light/dark theme, unit tests and CI.
+`Kotlin` `Jetpack Compose` `Material 3` `Clean Architecture` `MVVM + UDF` `Apollo GraphQL` `Paging 3` `Hilt` `Coil` `MockK` `GitHub Actions`
+
+### [Rick and Morty App]([RICK-AND-MORTY-REPO-URL])
+Paginated character and location lists, character search, detail screens, local login with bcrypt-hashed passwords, light/dark themes and English/Spanish localization.
+`Kotlin` `XML` `MVVM` `Clean Architecture` `Hilt` `Room` `Retrofit` `Paging 3`
+
+## 🛠️ Tech stack
+
+**Android**
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Material Design](https://img.shields.io/badge/Material%203-757575?style=for-the-badge&logo=materialdesign&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![SQLite](https://img.shields.io/badge/Room%20%2F%20SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+Hilt · Coroutines & Flow · Retrofit · Paging 3 · DataStore · WorkManager · Navigation · MockK · JUnit
+
+**Tools**
+
+![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Also worked with**
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+## 📊 GitHub stats
+
 <a href="https://github.com/AdalRodNun">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdalRodNun&show_icons=true&theme=tokyonight" />
 </a>
-
-## ⌨️ Technologies I Have Used
-
-**Languages**
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-**Frameworks**
-<!-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-**IDEs/Editors**
-
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Hosting**
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
- -->
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-**Other**
-<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-
+<a href="https://github.com/AdalRodNun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdalRodNun&layout=compact&theme=tokyonight" />
+</a>
 
 
