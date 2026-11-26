@@ -1,14 +1,11 @@
-## Hi 👋, I'm Adalberto Rodríguez Núñez
-
 **Android Software Engineer** · Guadalajara, Mexico 🇲🇽
 
 Computer Engineer with 4+ years building Android apps with **Kotlin**, from warehouse logistics to real estate. I care about maintainable code, solid test coverage and close collaboration with product, design and cross-platform teams.
 
-- 💼 **Android Engineer III at [Wizeline](https://www.wizeline.com/)**: modernizing Realtor.com's Android search platform (10M+ downloads) with Jetpack Compose and Clean Architecture.
-- 🔭 Building [Pokédex](https://github.com/AdalRodNun/Pokedex), a portfolio app with Compose, GraphQL and Clean Architecture.
-- 🤖 Exploring AI agents and LLM integration (LangGraph, Claude API) and AI-assisted development workflows.
-- 🌎 Spanish (native) · English (professional).
-- 📫 [LinkedIn](https://www.linkedin.com/in/adalberto-rodriguez-nunez)
+- **Android Engineer III at [Wizeline](https://www.wizeline.com/)**: modernizing Realtor.com's Android search platform (10M+ downloads) with Jetpack Compose and Clean Architecture.
+- Building [Pokédex](https://github.com/AdalRodNun/Pokedex), a portfolio app with Compose, GraphQL and Clean Architecture.
+- Spanish (native) · English (professional).
+- [LinkedIn](https://www.linkedin.com/in/adalberto-rodriguez-nunez)
 
 ## 📱 Featured projects
 
