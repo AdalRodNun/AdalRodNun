@@ -7,7 +7,7 @@ Computer Engineer with 4+ years building Android apps with **Kotlin**, from ware
 - Spanish (native) · English (professional).
 - [LinkedIn](https://www.linkedin.com/in/adalberto-rodriguez-nunez)
 
-## 📱 Featured projects
+## Featured projects
 
 ### [Pokédex](https://github.com/AdalRodNun/Pokedex)
 Android Pokédex consuming the PokeAPI GraphQL API: paginated list, type icons, detail screen, light/dark theme, unit tests and CI.
@@ -17,7 +17,7 @@ Android Pokédex consuming the PokeAPI GraphQL API: paginated list, type icons, 
 Paginated character and location lists, character search, detail screens, local login with bcrypt-hashed passwords, light/dark themes and English/Spanish localization.
 `Kotlin` `XML` `MVVM` `Clean Architecture` `Hilt` `Room` `Retrofit` `Paging 3`
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Android**
 
